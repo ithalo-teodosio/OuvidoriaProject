@@ -2,7 +2,7 @@ from ouvidoria_def import *
 
 endSGBD = 'localhost'
 userSGBD = 'root'
-senhaSGBD = 'himegami110395'
+senhaSGBD = 'SUA_SENHA'
 schemaSGBD = 'ouvidoria_xyz'
 
 connection = criarConexao(endSGBD, userSGBD, senhaSGBD, schemaSGBD)
